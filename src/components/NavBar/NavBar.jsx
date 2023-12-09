@@ -1,5 +1,5 @@
 import React from 'react'
-import CartWidget from './CartWidget'
+import CartWidget from '../CartWidget'
 import { Flex, Spacer, Box, Menu, MenuButton, MenuList, MenuItem } from '@chakra-ui/react'
 
 const NavBar = () => {
